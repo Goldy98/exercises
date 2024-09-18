@@ -82,8 +82,8 @@ Scottie_Pippen Patrick_Ewing
 In the first testcase, the longest video we can create uses the clips of:
 
 - LeBron_James dunking on Jason_Terry,
-- Jason_Tatum dunking on LeBron_James,
-- and Jason_Terry dunking on Jason_Tatum.
+- Jason_Terry dunking on Jason_Tatum.
+- and Jason_Tatum dunking on LeBron_James
 
 Since there are $3$ clips, the answer to this testcase is $3$.
 We can create other videos. For example we can use the clip of Chris_Paul
